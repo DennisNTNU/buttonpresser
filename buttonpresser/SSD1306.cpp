@@ -2,7 +2,7 @@
 #include <SPI.h>
 #include <Wire.h>
 
-#include "ssd1306.hpp"
+#include "SSD1306.hpp"
 
 /*
 byte placeholder_DDRB = 0;

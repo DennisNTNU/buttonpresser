@@ -4,7 +4,7 @@
 #include <Arduino.h>
 
 // this has 256 Bytes storage. but only 128 bytes are actually writable
-#define E24AA02E48_I2C_ADDR 0x50
+#define E24AA02E48_I2C_ADDR (byte)0x50
 
 void testRead(byte i);
 byte write_24AA02E48(byte address, byte* data, byte count);

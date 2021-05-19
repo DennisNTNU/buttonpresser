@@ -3,7 +3,7 @@
 #include <Wire.h>
 #include <Keyboard.h>
 #include <Mouse.h>
-#include "ssd1306.hpp"
+#include "SSD1306.hpp"
 #include "24AA02E48.hpp"
 
 // *********************************************
