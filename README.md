@@ -9,4 +9,6 @@ An Arduino micro program to press and hold buttons (Mouse and Keyboard) for me.
 - Hold keys
 - Press keys periodically
 - Press keys periodically up to N times
-- Supported keys alphanumeric keys a-z, 0-9. Left CTRL, Left ALT and Left Shift. Mouse buttons: Left, right, middle. 
+- Supported keys: Alphanumeric a-z, 0-9. Left CTRL, Left ALT and Left Shift. Mouse buttons: Left, right, middle. 
+
+![Oled screen sample](screen-sample.png "Image of the oled display contents")
